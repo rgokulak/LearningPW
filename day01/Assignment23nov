@@ -1,0 +1,28 @@
+//Assignement 1 23rd November, 2024
+//firstname
+let firstName = "Gokul R";
+console.log(firstName);
+console.log(typeof firstName);
+
+//CompanyName
+let companyName = "Apple";
+console.log(companyName);
+console.log(typeof companyName);
+
+//MobileNumber
+let mobileNumber = 9001800;
+console.log(mobileNumber);
+console.log(typeof mobileNumber);
+
+//isAutomation
+let isAutomation = true;
+console.log(isAutomation);
+console.log(typeof isAutomation);
+
+//hasPlaywright(do not assign)
+let hasPlaywright;
+console.log(hasPlaywright);
+console.log(typeof hasPlaywright);
+
+
+
